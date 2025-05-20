@@ -1,8 +1,5 @@
 # Auth API
 
-
-# Auth API
-
 A secure and scalable authentication API designed to power modern applications with user-centric access control.
 
 ---
