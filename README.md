@@ -15,7 +15,7 @@ A secure and scalable authentication API designed to power modern applications w
 
 ---
 
-## 🛠️ Tech Stack (Planned or in Use)
+## 🛠️ Tech Stack (Planned / in Use)
 
 - Node.js / Express.js
 - MongoDB or PostgreSQL
