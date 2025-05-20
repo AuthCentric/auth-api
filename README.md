@@ -22,7 +22,7 @@ A secure and scalable authentication API designed to power modern applications w
 - JWT for authentication
 - bcrypt for hashing
 - Docker (optional for deployment)
-  -kubenetes if need be.
+  - kubenetes if need be.
 
 ---
 
